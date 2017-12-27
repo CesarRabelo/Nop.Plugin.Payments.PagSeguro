@@ -1,0 +1,4 @@
+D:\Personal\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PagSeguro\obj\Release\net461\Nop.Plugin.Payments.PagSeguro.csprojResolveAssemblyReference.cache
+D:\Personal\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PagSeguro\obj\Release\net461\Nop.Plugin.Payments.PagSeguro.csproj.CoreCompileInputs.cache
+D:\Personal\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PagSeguro\obj\Release\net461\Nop.Plugin.Payments.PagSeguro.AssemblyInfoInputs.cache
+D:\Personal\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PagSeguro\obj\Release\net461\Nop.Plugin.Payments.PagSeguro.AssemblyInfo.cs
